@@ -1,2 +1,2 @@
 # analytics-tools
- A CLI tools aimed and providing utility from the CLI. Also it makes you look cool typing in commands in the terminal
+ A collection of analytics CLI tools aimed at providing utilities from the CLI. Also it makes you look cool typing in commands in the terminal.
